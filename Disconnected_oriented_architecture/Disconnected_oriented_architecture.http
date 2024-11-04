@@ -1,0 +1,6 @@
+@Disconnected_oriented_architecture_HostAddress = http://localhost:5279
+
+GET {{Disconnected_oriented_architecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
